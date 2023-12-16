@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Senior Vaseadsds",
+      "username": "Vasilica",
+      "email": "dsenior123@gmail.com",
+      "phone": "0675543434555",
+      "website": "instagram.com"
+    },
+    {
+      "id": 3,
+      "name": "Truba Aliona",
+      "username": "Alionuta",
+      "email": "taliona123@gmail.com",
+      "phone": "0634334435",
+      "website": "instagram.com"
+    },
+    {
+      "name": "dsdsd",
+      "email": "danurodion@gmail.com",
+      "phone": "322323232",
+      "id": 4
+    }
+  ]
+}
